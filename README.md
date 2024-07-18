@@ -9,14 +9,14 @@ Hi there! I'm Tom Follows, a Web Apps Front End Developer with a rich background
 - **Front End Development:** I specialize in creating responsive and user-friendly web applications, leveraging my expertise in modern JavaScript frameworks.
 
 ### Education
-I am a proud graduate of Northcoders, a renowned coding bootcamp. The software development course at Northcoders is intensive and immersive, covering:
+I am a graduate of Northcoders, a renowned coding bootcamp. The software development course at Northcoders is intensive and immersive, covering:
 - **Core Programming:** Fundamental principles of coding and problem-solving.
 - **Front End Development:** Building interactive and dynamic web applications using React and other modern technologies.
 - **Back End Development:** Server-side programming with Node.js and Express.
 - **Project Work:** Collaborative projects that simulate real-world development environments, preparing graduates for industry demands.
 
 ### Current Role
-I am currently enhancing my skills and contributing to impactful projects at **Interactive Investor**. Interactive Investor (ii) is a UK-based investment platform that provides a range of financial services and products to individual investors. It is one of the largest and most popular online investment services in the UK
+I am currently working at **Interactive Investor**. Interactive Investor (ii) is a UK-based investment platform that provides a range of financial services and products to individual investors. It is one of the largest and most popular online investment services in the UK
 ## Skills
 
 ### Languages
